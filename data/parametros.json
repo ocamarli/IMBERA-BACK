@@ -1,0 +1,1400 @@
+[
+  {
+    "descripcion": "ID del fabricante del refrigerador",
+    "esValorFijo": true,
+    "estatus": true,
+    "grupo": "General",
+    "idParametro": "66db78478e91fe50568205fc",
+    "idParametroInterno": "009",
+    "opciones": [
+        {
+            "nombre": "Imbera",
+            "valor": "0"
+        }
+    ],
+    "rango": "[0,100]",
+    "tipoCampo": "opciones",
+    "tipoParametro": "general",
+    "unidad": "N.A.",
+    "valorFijo": "0"
+  },
+  {
+    "descripcion": "Tipo de programación",
+    "esValorFijo": false,
+    "estatus": true,
+    "grupo": "Equipo",
+    "idParametro": "66db78478e91fe50568205fe",
+    "idParametroInterno": "010",
+    "opciones": [
+        {
+            "nombre": "Lácteos",
+            "valor": "1"
+        },
+        {
+            "nombre": "Refrescos",
+            "valor": "2"
+        },
+        {
+            "nombre": "Cerveza",
+            "valor": "3"
+        },
+        {
+            "nombre": "Cárnicos",
+            "valor": "4"
+        },
+        {
+            "nombre": "Congelador",
+            "valor": "5"
+        },
+        {
+            "nombre": "Pasteles",
+            "valor": "6"
+        }
+    ],
+    "rango": "[0, 6]",
+    "tipoCampo": "opciones",
+    "tipoParametro": "programacion",
+    "unidad": "N.A.",
+    "valorFijo": "0"
+  },
+  {
+    "descripcion": "Modo desplegado 1° letra",
+    "esValorFijo": false,
+    "estatus": true,
+    "grupo": "Display",
+    "idParametro": "66db78478e91fe5056820000",
+    "idParametroInterno": "184",
+    "opciones": [
+        {
+            "nombre": "A",
+            "valor": "41"
+        },
+        {
+            "nombre": "b",
+            "valor": "62"
+        },
+        {
+            "nombre": "C",
+            "valor": "43"
+        },
+        {
+            "nombre": "c",
+            "valor": "63"
+        },
+        {
+            "nombre": "d",
+            "valor": "64"
+        },
+        {
+            "nombre": "E",
+            "valor": "45"
+        },
+        {
+            "nombre": "F",
+            "valor": "46"
+        },
+        {
+            "nombre": "g",
+            "valor": "67"
+        },
+        {
+            "nombre": "G",
+            "valor": "47"
+        },
+        {
+            "nombre": "H",
+            "valor": "48"
+        },
+        {
+            "nombre": "h",
+            "valor": "68"
+        },
+        {
+            "nombre": "I",
+            "valor": "49"
+        },
+        {
+            "nombre": "i",
+            "valor": "69"
+        },
+        {
+            "nombre": "J",
+            "valor": "4A"
+        },
+        {
+            "nombre": "L",
+            "valor": "4C"
+        },
+        {
+            "nombre": "l",
+            "valor": "6C"
+        },
+        {
+            "nombre": "n",
+            "valor": "6E"
+        },
+        {
+            "nombre": "O",
+            "valor": "4F"
+        },
+        {
+            "nombre": "o",
+            "valor": "6F"
+        },
+        {
+            "nombre": "P",
+            "valor": "50"
+        },
+        {
+            "nombre": "q",
+            "valor": "71"
+        },
+        {
+            "nombre": "r",
+            "valor": "72"
+        },
+        {
+            "nombre": "S",
+            "valor": "53"
+        },
+        {
+            "nombre": "t",
+            "valor": "74"
+        },
+        {
+            "nombre": "U",
+            "valor": "55"
+        },
+        {
+            "nombre": "u",
+            "valor": "75"
+        },
+        {
+            "nombre": "V",
+            "valor": "56"
+        },
+        {
+            "nombre": "v",
+            "valor": "76"
+        },
+        {
+            "nombre": "y",
+            "valor": "79"
+        }
+    ],
+    "rango": "[0,255]",
+    "tipoCampo": "opciones",
+    "tipoParametro": "programacion",
+    "unidad": "N.A.",
+    "valorFijo": "0"
+  },
+  {
+    "descripcion": "Modo desplegado 2° letra",
+    "esValorFijo": false,
+    "estatus": true,
+    "grupo": "Display",
+    "idParametro": "66db78478e91fe50568205ff",
+    "idParametroInterno": "215",
+    "opciones": [
+        {
+            "nombre": "A",
+            "valor": "41"
+        },
+        {
+            "nombre": "b",
+            "valor": "62"
+        },
+        {
+            "nombre": "C",
+            "valor": "43"
+        },
+        {
+            "nombre": "c",
+            "valor": "63"
+        },
+        {
+            "nombre": "d",
+            "valor": "64"
+        },
+        {
+            "nombre": "E",
+            "valor": "45"
+        },
+        {
+            "nombre": "F",
+            "valor": "46"
+        },
+        {
+            "nombre": "g",
+            "valor": "67"
+        },
+        {
+            "nombre": "G",
+            "valor": "47"
+        },
+        {
+            "nombre": "H",
+            "valor": "48"
+        },
+        {
+            "nombre": "h",
+            "valor": "68"
+        },
+        {
+            "nombre": "I",
+            "valor": "49"
+        },
+        {
+            "nombre": "i",
+            "valor": "69"
+        },
+        {
+            "nombre": "J",
+            "valor": "4A"
+        },
+        {
+            "nombre": "L",
+            "valor": "4C"
+        },
+        {
+            "nombre": "l",
+            "valor": "6C"
+        },
+        {
+            "nombre": "n",
+            "valor": "6E"
+        },
+        {
+            "nombre": "O",
+            "valor": "4F"
+        },
+        {
+            "nombre": "o",
+            "valor": "6F"
+        },
+        {
+            "nombre": "P",
+            "valor": "50"
+        },
+        {
+            "nombre": "q",
+            "valor": "71"
+        },
+        {
+            "nombre": "r",
+            "valor": "72"
+        },
+        {
+            "nombre": "S",
+            "valor": "53"
+        },
+        {
+            "nombre": "t",
+            "valor": "74"
+        },
+        {
+            "nombre": "U",
+            "valor": "55"
+        },
+        {
+            "nombre": "u",
+            "valor": "75"
+        },
+        {
+            "nombre": "V",
+            "valor": "56"
+        },
+        {
+            "nombre": "v",
+            "valor": "76"
+        },
+        {
+            "nombre": "y",
+            "valor": "79"
+        }
+    ],
+    "rango": "[N.A.]",
+    "tipoCampo": "opciones",
+    "tipoParametro": "programacion",
+    "unidad": "N.A.",
+    "valorFijo": "0"
+  },
+  {
+    "descripcion": "Tipo de temperatura",
+    "esValorFijo": true,
+    "estatus": true,
+    "grupo": "Temperatura",
+    "idParametro": "66db78478e91fe5056820600",
+    "idParametroInterno": "026",
+    "opciones": [
+        {
+            "nombre": "Centígrados",
+            "valor": "0"
+        },
+        {
+            "nombre": "Fahrenheit",
+            "valor": "1"
+        }
+    ],
+    "rango": "[0,2]",
+    "tipoCampo": "opciones",
+    "tipoParametro": "general",
+    "unidad": "N.A.",
+    "valorFijo": "0"
+  },
+  {
+    "descripcion": "Display: tiempo de congelamiento temperatura en mins en DESHIELO",
+    "esValorFijo": false,
+    "estatus": true,
+    "grupo": "Deshielo",
+    "idParametro": "66db78478e91fe5056820601",
+    "idParametroInterno": "180",
+    "rango": "[1,35]",
+    "tipoCampo": "rango",
+    "tipoParametro": "general",
+    "unidad": "min",
+    "valorFijo": "10",
+    "valor_max": "35",
+    "valor_min": "1"
+  },
+  {
+    "descripcion": "Activar deshielo al iniciar el equipo",
+    "esValorFijo": false,
+    "estatus": true,
+    "grupo": "Deshielo",
+    "idParametro": "66db78478e91fe5056820602",
+    "idParametroInterno": "051",
+    "opciones": [
+        {
+            "nombre": "Deshabilitar",
+            "valor": "0"
+        },
+        {
+            "nombre": "Habilitar",
+            "valor": "1"
+        }
+    ],
+    "rango": "[0, 1]",
+    "tipoCampo": "opciones",
+    "tipoParametro": "general",
+    "unidad": "N.A.",
+    "valorFijo": "0"
+  },
+  {
+    "descripcion": "Deshielo fase 3 (retorno del ventilador)",
+    "esValorFijo": false,
+    "estatus": true,
+    "grupo": "Deshielo",
+    "idParametro": "66db78478e91fe5056820603",
+    "idParametroInterno": "106",
+    "rango": "[0, 99]",
+    "tipoCampo": "rango",
+    "tipoParametro": "general",
+    "unidad": "min",
+    "valorFijo": "5",
+    "valor_max": "99",
+    "valor_min": "0"
+  },
+  {
+    "descripcion": "Alerta -U (valor de alarma de bajo voltaje)",
+    "esValorFijo": false,
+    "estatus": true,
+    "grupo": "Alarmas",
+    "idParametro": "66db78478e91fe5056820604",
+    "idParametroInterno": "065",
+    "rango": "[0,300]",
+    "tipoCampo": "rango",
+    "tipoParametro": "general",
+    "unidad": "V",
+    "valorFijo": "90",
+    "valor_max": "300",
+    "valor_min": "0"
+  },
+  {
+    "descripcion": "Alerta U (valor de alarma de alto voltaje)",
+    "esValorFijo": false,
+    "estatus": true,
+    "grupo": "Alarmas",
+    "idParametro": "66db78478e91fe5056820605",
+    "idParametroInterno": "066",
+    "rango": "[0,300]",
+    "tipoCampo": "rango",
+    "tipoParametro": "general",
+    "unidad": "V",
+    "valorFijo": "140",
+    "valor_max": "300",
+    "valor_min": "0"
+  },
+  {
+    "descripcion": "Alarma C (tiempo máximo de compresor encendido)",
+    "esValorFijo": false,
+    "estatus": true,
+    "grupo": "Alarmas",
+    "idParametro": "66db78478e91fe5056820606",
+    "idParametroInterno": "100",
+    "rango": "[0,99]",
+    "tipoCampo": "rango",
+    "tipoParametro": "general",
+    "unidad": "h",
+    "valorFijo": "24",
+    "valor_max": "99",
+    "valor_min": "0"
+  },
+  {
+    "descripcion": "Alarma compresor: número de ciclos consecutivos para comparación",
+    "esValorFijo": false,
+    "estatus": true,
+    "grupo": "Alarmas",
+    "idParametro": "66db78478e91fe5056820607",
+    "idParametroInterno": "187",
+    "rango": "[1,255]",
+    "tipoCampo": "rango",
+    "tipoParametro": "general",
+    "unidad": "N.A.",
+    "valorFijo": "2",
+    "valor_max": "255",
+    "valor_min": "1"
+  },
+  {
+    "descripcion": "Compresor: tiempo OFF1 modo alarma en mins",
+    "esValorFijo": false,
+    "estatus": true,
+    "grupo": "Alarmas",
+    "idParametro": "66db78478e91fe5056820608",
+    "idParametroInterno": "188",
+    "rango": "[1,120]",
+    "tipoCampo": "rango",
+    "tipoParametro": "general",
+    "unidad": "min",
+    "valorFijo": "30",
+    "valor_max": "120",
+    "valor_min": "1"
+  },
+  {
+    "descripcion": "Compresor: tiempo OFF2 modo alarma en mins",
+    "esValorFijo": false,
+    "estatus": true,
+    "grupo": "Alarmas",
+    "idParametro": "66db78478e91fe5056820609",
+    "idParametroInterno": "189",
+    "rango": "[1,120]",
+    "tipoCampo": "rango",
+    "tipoParametro": "general",
+    "unidad": "min",
+    "valorFijo": "60",
+    "valor_max": "120",
+    "valor_min": "1"
+  },
+  {
+    "descripcion": "Compresor: tiempo ON modo alarma en mins",
+    "esValorFijo": false,
+    "estatus": true,
+    "grupo": "Alarmas",
+    "idParametro": "66db78478e91fe505682060a",
+    "idParametroInterno": "190",
+    "rango": "[1,180]",
+    "tipoCampo": "rango",
+    "tipoParametro": "general",
+    "unidad": "min",
+    "valorFijo": "15",
+    "valor_max": "180",
+    "valor_min": "1"
+  },
+  {
+    "descripcion": "Alerta P (error de tiempo de puerta abierta)",
+    "esValorFijo": false,
+    "estatus": true,
+    "grupo": "Alarmas",
+    "idParametro": "66db78478e91fe505682060b",
+    "idParametroInterno": "107",
+    "rango": "[0,99]",
+    "tipoCampo": "rango",
+    "tipoParametro": "general",
+    "unidad": "min",
+    "valorFijo": "5",
+    "valor_max": "99",
+    "valor_min": "0"
+  },
+  {
+    "descripcion": "Alarma puerta abierta: tiempo en mins para rotura de switch.",
+    "esValorFijo": false,
+    "estatus": true,
+    "grupo": "Alarmas",
+    "idParametro": "66db78478e91fe505682060c",
+    "idParametroInterno": "186",
+    "rango": "[0,600]",
+    "tipoCampo": "rango",
+    "tipoParametro": "general",
+    "unidad": "min",
+    "valorFijo": "420",
+    "valor_max": "600",
+    "valor_min": "0"
+  },
+  {
+    "descripcion": "Ventilador: retardo primer encendido en segs",
+    "esValorFijo": false,
+    "estatus": true,
+    "grupo": "Equipo",
+    "idParametro": "66db78478e91fe505682060d",
+    "idParametroInterno": "182",
+    "rango": "[0,255]",
+    "tipoCampo": "rango",
+    "tipoParametro": "general",
+    "unidad": "s",
+    "valorFijo": "20",
+    "valor_max": "255",
+    "valor_min": "0"
+  },
+  {
+    "descripcion": "Modo de operación de ventilador",
+    "esValorFijo": false,
+    "estatus": true,
+    "grupo": "Equipo",
+    "idParametro": "66db78478e91fe505682060e",
+    "idParametroInterno": "080",
+    "opciones": [
+        {
+            "nombre": "Ventilador automático",
+            "valor": "0"
+        },
+        {
+            "nombre": "Ventilador dependiente",
+            "valor": "1"
+        },
+        {
+            "nombre": "Ventilador continuo",
+            "valor": "2"
+        }
+    ],
+    "rango": "[0,2]",
+    "tipoCampo": "opciones",
+    "tipoParametro": "general",
+    "unidad": "N.A.",
+    "valorFijo": "2"
+  },
+  {
+    "descripcion": "Tiempo de encendido del ventilador",
+    "esValorFijo": false,
+    "estatus": true,
+    "grupo": "Equipo",
+    "idParametro": "66db78478e91fe505682060f",
+    "idParametroInterno": "102",
+    "rango": "[0,99]",
+    "tipoCampo": "rango",
+    "tipoParametro": "general",
+    "unidad": "min",
+    "valorFijo": "4",
+    "valor_max": "99",
+    "valor_min": "0"
+  },
+  {
+    "descripcion": "Tiempo de apagado del ventilador",
+    "esValorFijo": false,
+    "estatus": true,
+    "grupo": "Equipo",
+    "idParametro": "66db78478e91fe5056820610",
+    "idParametroInterno": "103",
+    "rango": "[0,99]",
+    "tipoCampo": "rango",
+    "tipoParametro": "general",
+    "unidad": "min",
+    "valorFijo": "0",
+    "valor_max": "99",
+    "valor_min": "0"
+  },
+  {
+    "descripcion": "Ventilador: tiempo OFF en segs después de cerrar puerta",
+    "esValorFijo": false,
+    "estatus": true,
+    "grupo": "Equipo",
+    "idParametro": "66db78478e91fe5056820611",
+    "idParametroInterno": "191",
+    "rango": "[0,255]",
+    "tipoCampo": "rango",
+    "tipoParametro": "general",
+    "unidad": "s",
+    "valorFijo": "15",
+    "valor_max": "255",
+    "valor_min": "0"
+  },
+  {
+    "descripcion": "Compresor: retardo primer encendido en segs",
+    "esValorFijo": false,
+    "estatus": true,
+    "grupo": "Equipo",
+    "idParametro": "66db78478e91fe5056820612",
+    "idParametroInterno": "181",
+    "rango": "[0,255]",
+    "tipoCampo": "rango",
+    "tipoParametro": "general",
+    "unidad": "s",
+    "valorFijo": "25",
+    "valor_max": "255",
+    "valor_min": "0"
+  },
+  {
+    "descripcion": "Tiempo mínimo de encendido de compresor.",
+    "esValorFijo": false,
+    "estatus": true,
+    "grupo": "Equipo",
+    "idParametro": "66db78478e91fe5056820613",
+    "idParametroInterno": "104",
+    "rango": "[0,99]",
+    "tipoCampo": "rango",
+    "tipoParametro": "general",
+    "unidad": "min",
+    "valorFijo": "0",
+    "valor_max": "99",
+    "valor_min": "0"
+  },
+  {
+    "descripcion": "Tiempo mínimo de apagado de compresor",
+    "esValorFijo": false,
+    "estatus": true,
+    "grupo": "Equipo",
+    "idParametro": "66db78478e91fe5056820614",
+    "idParametroInterno": "105",
+    "rango": "[0,99]",
+    "tipoCampo": "rango",
+    "tipoParametro": "general",
+    "unidad": "min",
+    "valorFijo": "5",
+    "valor_max": "99",
+    "valor_min": "0"
+  },
+  {
+    "descripcion": "Lógica de puerta",
+    "esValorFijo": false,
+    "estatus": true,
+    "grupo": "Equipo",
+    "idParametro": "66db78478e91fe5056820615",
+    "idParametroInterno": "081",
+    "opciones": [
+        {
+            "nombre": "Ninguna función",
+            "valor": "0"
+        },
+        {
+            "nombre": "Puerta abierta ventilador encendido",
+            "valor": "1"
+        },
+        {
+            "nombre": "Puerta cerrada ventilador encendido",
+            "valor": "2"
+        }
+    ],
+    "rango": "[0, 2]",
+    "tipoCampo": "opciones",
+    "tipoParametro": "general",
+    "unidad": "N.A.",
+    "valorFijo": "0"
+  },
+  {
+    "descripcion": "Estado de las luces en modo normal",
+    "esValorFijo": false,
+    "estatus": true,
+    "grupo": "Equipo",
+    "idParametro": "66db78478e91fe5056820616",
+    "idParametroInterno": "095",
+    "opciones": [
+        {
+            "nombre": "Apagadas",
+            "valor": "0"
+        },
+        {
+            "nombre": "Encendidas",
+            "valor": "1"
+        }
+    ],
+    "rango": "[0,1]",
+    "tipoCampo": "opciones",
+    "tipoParametro": "general",
+    "unidad": "N.A.",
+    "valorFijo": "1"
+  },
+  {
+    "descripcion": "Estado de las luces en ES1",
+    "esValorFijo": false,
+    "estatus": true,
+    "grupo": "Equipo",
+    "idParametro": "66db78478e91fe5056820617",
+    "idParametroInterno": "096",
+    "opciones": [
+        {
+            "nombre": "Apagadas",
+            "valor": "0"
+        },
+        {
+            "nombre": "Encendidas",
+            "valor": "1"
+        }
+    ],
+    "rango": "[0,1]",
+    "tipoCampo": "opciones",
+    "tipoParametro": "general",
+    "unidad": "N.A.",
+    "valorFijo": "1"
+  },
+  {
+    "descripcion": "Estado de las luces en ES2",
+    "esValorFijo": false,
+    "estatus": true,
+    "grupo": "Equipo",
+    "idParametro": "66db78478e91fe5056820618",
+    "idParametroInterno": "097",
+    "opciones": [
+        {
+            "nombre": "Apagadas",
+            "valor": "0"
+        },
+        {
+            "nombre": "Encendidas",
+            "valor": "1"
+        }
+    ],
+    "rango": "[0,1]",
+    "tipoCampo": "opciones",
+    "tipoParametro": "general",
+    "unidad": "N.A.",
+    "valorFijo": "0"
+  },
+  {
+    "descripcion": "Estado de sensor del evaporador (2)",
+    "esValorFijo": false,
+    "estatus": true,
+    "grupo": "Equipo",
+    "idParametro": "66db78478e91fe5056820619",
+    "idParametroInterno": "082",
+    "opciones": [
+        {
+            "nombre": "Deshabilitar",
+            "valor": "0"
+        },
+        {
+            "nombre": "Habilitar",
+            "valor": "1"
+        }
+    ],
+    "rango": "[0, 1]",
+    "tipoCampo": "opciones",
+    "tipoParametro": "general",
+    "unidad": "N.A.",
+    "valorFijo": "0"
+  },
+  {
+    "descripcion": "Estado de sensor del condensador (3)",
+    "esValorFijo": false,
+    "estatus": true,
+    "grupo": "Equipo",
+    "idParametro": "66db78478e91fe505682061a",
+    "idParametroInterno": "083",
+    "opciones": [
+        {
+            "nombre": "Deshabilitar",
+            "valor": "0"
+        },
+        {
+            "nombre": "Habilitar",
+            "valor": "1"
+        }
+    ],
+    "rango": "[0, 1]",
+    "tipoCampo": "opciones",
+    "tipoParametro": "general",
+    "unidad": "N.A.",
+    "valorFijo": "0"
+  },
+  {
+    "descripcion": "Estado de sensor externo (4)",
+    "esValorFijo": false,
+    "estatus": true,
+    "grupo": "Equipo",
+    "idParametro": "66db78478e91fe505682061b",
+    "idParametroInterno": "084",
+    "opciones": [
+        {
+            "nombre": "Deshabilitar",
+            "valor": "0"
+        },
+        {
+            "nombre": "Habilitar",
+            "valor": "1"
+        }
+    ],
+    "rango": "[0, 1]",
+    "tipoCampo": "opciones",
+    "tipoParametro": "general",
+    "unidad": "N.A.",
+    "valorFijo": "0"
+  },
+  {
+    "descripcion": "Tipo de sonda",
+    "esValorFijo": true,
+    "estatus": true,
+    "grupo": "Equipo",
+    "idParametro": "66db78478e91fe505682061c",
+    "idParametroInterno": "085",
+    "opciones": [
+        {
+            "nombre": "Sonda de Imbera",
+            "valor": "0"
+        }
+    ],
+    "rango": "0",
+    "tipoCampo": "opciones",
+    "tipoParametro": "general",
+    "unidad": "N.A.",
+    "valorFijo": "0"
+  },
+  {
+    "descripcion": "Offset sonda cámara (1)",
+    "esValorFijo": false,
+    "estatus": true,
+    "grupo": "Equipo",
+    "idParametro": "66db78478e91fe505682061d",
+    "idParametroInterno": "089",
+    "rango": "[-35,50]",
+    "tipoCampo": "rango",
+    "tipoParametro": "general",
+    "unidad": "°C",
+    "valorFijo": "0",
+    "valor_max": "50",
+    "valor_min": "-35"
+  },
+  {
+    "descripcion": "Offset sonda evaporador (2)",
+    "esValorFijo": false,
+    "estatus": true,
+    "grupo": "Equipo",
+    "idParametro": "66db78478e91fe505682061e",
+    "idParametroInterno": "090",
+    "rango": "[-35,50]",
+    "tipoCampo": "rango",
+    "tipoParametro": "general",
+    "unidad": "°C",
+    "valorFijo": "0",
+    "valor_max": "50",
+    "valor_min": "-35"
+  },
+  {
+    "descripcion": "Offset sonda condensador (3)",
+    "esValorFijo": false,
+    "estatus": true,
+    "grupo": "Equipo",
+    "idParametro": "66db78478e91fe505682061f",
+    "idParametroInterno": "091",
+    "rango": "[-35,50]",
+    "tipoCampo": "rango",
+    "tipoParametro": "general",
+    "unidad": "°C",
+    "valorFijo": "0",
+    "valor_max": "50",
+    "valor_min": "-35"
+  },
+  {
+    "descripcion": "Duración en modo nocturno",
+    "esValorFijo": false,
+    "estatus": true,
+    "grupo": "Modo nocturno",
+    "idParametro": "66db78478e91fe5056820620",
+    "idParametroInterno": "140",
+    "rango": "[1,2880]",
+    "tipoCampo": "rango",
+    "tipoParametro": "general",
+    "unidad": "min",
+    "valorFijo": "10",
+    "valor_max": "2880",
+    "valor_min": "1"
+  },
+  {
+    "descripcion": "Modo de salida al expirar modo nocturno",
+    "esValorFijo": false,
+    "estatus": true,
+    "grupo": "Modo nocturno",
+    "idParametro": "66db78478e91fe5056820621",
+    "idParametroInterno": "141",
+    "opciones": [
+        {
+            "nombre": "Normal",
+            "valor": "0"
+        },
+        {
+            "nombre": "ES1",
+            "valor": "1"
+        },
+        {
+            "nombre": "ES2",
+            "valor": "2"
+        }
+    ],
+    "rango": "[0,2]",
+    "tipoCampo": "opciones",
+    "tipoParametro": "general",
+    "unidad": "N.A.",
+    "valorFijo": "2"
+  },
+  {
+    "descripcion": "Tipo de display",
+    "esValorFijo": true,
+    "estatus": true,
+    "grupo": "Display",
+    "idParametro": "66db78478e91fe5056820622",
+    "idParametroInterno": "160",
+    "opciones": [
+        {
+            "nombre": "Display embebido",
+            "valor": "5"
+        }
+    ],
+    "rango": "[5]",
+    "tipoCampo": "opciones",
+    "tipoParametro": "general",
+    "unidad": "N.A.",
+    "valorFijo": "5"
+  },
+  {
+    "descripcion": "Modo numérico de temperatura",
+    "esValorFijo": true,
+    "estatus": true,
+    "grupo": "Display",
+    "idParametro": "66db78478e91fe5056820623",
+    "idParametroInterno": "088",
+    "opciones": [
+        {
+            "nombre": "Decimales",
+            "valor": "0"
+        },
+        {
+            "nombre": "Enteros",
+            "valor": "1"
+        }
+    ],
+    "rango": "[0,1]",
+    "tipoCampo": "opciones",
+    "tipoParametro": "general",
+    "unidad": "N.A.",
+    "valorFijo": "1"
+  },
+  {
+    "descripcion": "Display: Tiempo de congelamiento al incrementarse la temperatura",
+    "esValorFijo": false,
+    "estatus": true,
+    "grupo": "Display",
+    "idParametro": "66db78478e91fe5056820624",
+    "idParametroInterno": "098",
+    "rango": "[1,255]",
+    "tipoCampo": "rango",
+    "tipoParametro": "general",
+    "unidad": "s",
+    "valorFijo": "32",
+    "valor_max": "255",
+    "valor_min": "1"
+  },
+  {
+    "descripcion": "Display: Tiempo de congelamiento al decrementarse la temperatura",
+    "esValorFijo": false,
+    "estatus": true,
+    "grupo": "Display",
+    "idParametro": "66db78478e91fe5056820625",
+    "idParametroInterno": "099",
+    "rango": "[1,255]",
+    "tipoCampo": "rango",
+    "tipoParametro": "general",
+    "unidad": "s",
+    "valorFijo": "32",
+    "valor_max": "255",
+    "valor_min": "1"
+  },
+  {
+    "descripcion": "Setpoint normal (temperatura deseada)",
+    "esValorFijo": false,
+    "estatus": true,
+    "grupo": "Temperatura",
+    "idParametro": "66db78478e91fe5056820626",
+    "idParametroInterno": "020",
+    "rango": "[-35,50]",
+    "tipoCampo": "rango",
+    "tipoParametro": "programacion",
+    "unidad": "°C",
+    "valorFijo": "2.2",
+    "valor_max": "50",
+    "valor_min": "-35"
+  },
+  {
+    "descripcion": "Diferencial normal",
+    "esValorFijo": false,
+    "estatus": true,
+    "grupo": "Temperatura",
+    "idParametro": "66db78478e91fe5056820627",
+    "idParametroInterno": "021",
+    "rango": "[-35,50]",
+    "tipoCampo": "rango",
+    "tipoParametro": "programacion",
+    "unidad": "°C",
+    "valorFijo": "2.5",
+    "valor_max": "50",
+    "valor_min": "-35"
+  },
+  {
+    "descripcion": "Duración de modo normal",
+    "esValorFijo": false,
+    "estatus": true,
+    "grupo": "Temperatura",
+    "idParametro": "66db78478e91fe5056820628",
+    "idParametroInterno": "034",
+    "rango": "[1,2880]",
+    "tipoCampo": "rango",
+    "tipoParametro": "programacion",
+    "unidad": "min",
+    "valorFijo": "30",
+    "valor_max": "2880",
+    "valor_min": "1"
+  },
+  {
+    "descripcion": "Setpoint ES1",
+    "esValorFijo": false,
+    "estatus": true,
+    "grupo": "Temperatura",
+    "idParametro": "66db78478e91fe5056820629",
+    "idParametroInterno": "030",
+    "rango": "[-35,50]",
+    "tipoCampo": "rango",
+    "tipoParametro": "programacion",
+    "unidad": "°C",
+    "valorFijo": "6.9",
+    "valor_max": "50",
+    "valor_min": "-35"
+  },
+  {
+    "descripcion": "Diferencial ES1",
+    "esValorFijo": false,
+    "estatus": true,
+    "grupo": "Temperatura",
+    "idParametro": "66db78478e91fe505682062a",
+    "idParametroInterno": "031",
+    "rango": "[-35,50]",
+    "tipoCampo": "rango",
+    "tipoParametro": "programacion",
+    "unidad": "°C",
+    "valorFijo": "2.5",
+    "valor_max": "50",
+    "valor_min": "-35"
+  },
+  {
+    "descripcion": "Duración en modo ES1",
+    "esValorFijo": false,
+    "estatus": true,
+    "grupo": "Temperatura",
+    "idParametro": "66db78478e91fe505682062b",
+    "idParametroInterno": "035",
+    "rango": "[1,2880]",
+    "tipoCampo": "rango",
+    "tipoParametro": "programacion",
+    "unidad": "min",
+    "valorFijo": "120",
+    "valor_max": "2880",
+    "valor_min": "1"
+  },
+  {
+    "descripcion": "Temperatura para pasar de modo normal a ES1",
+    "esValorFijo": false,
+    "estatus": true,
+    "grupo": "Temperatura",
+    "idParametro": "66db78478e91fe505682062c",
+    "idParametroInterno": "036",
+    "rango": "[-35,50]",
+    "tipoCampo": "rango",
+    "tipoParametro": "programacion",
+    "unidad": "°C",
+    "valorFijo": "8",
+    "valor_max": "50",
+    "valor_min": "-35"
+  },
+  {
+    "descripcion": "Setpoint ES2 (ECO)",
+    "esValorFijo": false,
+    "estatus": true,
+    "grupo": "Temperatura",
+    "idParametro": "66db78478e91fe505682062d",
+    "idParametroInterno": "022",
+    "rango": "[-35,50]",
+    "tipoCampo": "rango",
+    "tipoParametro": "programacion",
+    "unidad": "°C",
+    "valorFijo": "6.9",
+    "valor_max": "50",
+    "valor_min": "-35"
+  },
+  {
+    "descripcion": "Diferencial ES2 (ECO)",
+    "esValorFijo": false,
+    "estatus": true,
+    "grupo": "Temperatura",
+    "idParametro": "66db78478e91fe505682062e",
+    "idParametroInterno": "023",
+    "rango": "[-35,50]",
+    "tipoCampo": "rango",
+    "tipoParametro": "programacion",
+    "unidad": "°C",
+    "valorFijo": "2.5",
+    "valor_max": "50",
+    "valor_min": "-35"
+  },
+  {
+    "descripcion": "Duración en ES2 (ECO)",
+    "esValorFijo": false,
+    "estatus": true,
+    "grupo": "Temperatura",
+    "idParametro": "66db78478e91fe505682062f",
+    "idParametroInterno": "025",
+    "rango": "[0,250]",
+    "tipoCampo": "rango",
+    "tipoParametro": "programacion",
+    "unidad": "h",
+    "valorFijo": "250",
+    "valor_max": "250",
+    "valor_min": "0"
+  },
+  {
+    "descripcion": "Modo de salida al expirar ES2",
+    "esValorFijo": false,
+    "estatus": true,
+    "grupo": "Temperatura",
+    "idParametro": "66db78478e91fe5056820630",
+    "idParametroInterno": "037",
+    "opciones": [
+        {
+            "nombre": "Normal",
+            "valor": "0"
+        },
+        {
+            "nombre": "ES1",
+            "valor": "1"
+        }
+    ],
+    "rango": "[0,1]",
+    "tipoCampo": "opciones",
+    "tipoParametro": "programacion",
+    "unidad": "N.A.",
+    "valorFijo": "0"
+  },
+  {
+    "descripcion": "Tipo de deshielo",
+    "esValorFijo": false,
+    "estatus": true,
+    "grupo": "Deshielo",
+    "idParametro": "66db78478e91fe5056820631",
+    "idParametroInterno": "040",
+    "opciones": [
+        {
+            "nombre": "Deshabilitar",
+            "valor": "0"
+        },
+        {
+            "nombre": "Por resistencia",
+            "valor": "1"
+        },
+        {
+            "nombre": "Gas caliente",
+            "valor": "2"
+        },
+        {
+            "nombre": "Aire forzado",
+            "valor": "3"
+        }
+    ],
+    "rango": "[0,3]",
+    "tipoCampo": "opciones",
+    "tipoParametro": "programacion",
+    "unidad": "N.A.",
+    "valorFijo": "3"
+  },
+  {
+    "descripcion": "Modo de deshielo",
+    "esValorFijo": false,
+    "estatus": true,
+    "grupo": "Deshielo",
+    "idParametro": "66db78478e91fe5056820632",
+    "idParametroInterno": "041",
+    "opciones": [
+        {
+            "nombre": "Deshielo por tiempo",
+            "valor": "0"
+        },
+        {
+            "nombre": "Deshielo por temperatura",
+            "valor": "1"
+        }
+    ],
+    "rango": "[0, 1]",
+    "tipoCampo": "opciones",
+    "tipoParametro": "programacion",
+    "unidad": "N.A.",
+    "valorFijo": "0"
+  },
+  {
+    "descripcion": "Temperatura del evaporador para inicio de deshielo",
+    "esValorFijo": false,
+    "estatus": true,
+    "grupo": "Deshielo",
+    "idParametro": "66db78478e91fe5056820633",
+    "idParametroInterno": "042",
+    "rango": "[-35, 50]",
+    "tipoCampo": "rango",
+    "tipoParametro": "programacion",
+    "unidad": "°C",
+    "valorFijo": "30",
+    "valor_max": "50",
+    "valor_min": "-35"
+  },
+  {
+    "descripcion": "Intervalo entre deshielos",
+    "esValorFijo": false,
+    "estatus": true,
+    "grupo": "Deshielo",
+    "idParametro": "66db78478e91fe5056820634",
+    "idParametroInterno": "044",
+    "rango": "[1, 120]",
+    "tipoCampo": "rango",
+    "tipoParametro": "programacion",
+    "unidad": "h",
+    "valorFijo": "4",
+    "valor_max": "120",
+    "valor_min": "1"
+  },
+  {
+    "descripcion": "Deshielo fase 1 (duración de deshielo)",
+    "esValorFijo": false,
+    "estatus": true,
+    "grupo": "Deshielo",
+    "idParametro": "66db78478e91fe5056820635",
+    "idParametroInterno": "043",
+    "rango": "[1, 99]",
+    "tipoCampo": "rango",
+    "tipoParametro": "programacion",
+    "unidad": "min",
+    "valorFijo": "30",
+    "valor_max": "99",
+    "valor_min": "1"
+  },
+  {
+    "descripcion": "Deshielo fase 2 (goteo)",
+    "esValorFijo": false,
+    "estatus": true,
+    "grupo": "Deshielo",
+    "idParametro": "66db78478e91fe5056820636",
+    "idParametroInterno": "045",
+    "rango": "[1, 120]",
+    "tipoCampo": "rango",
+    "tipoParametro": "programacion",
+    "unidad": "min",
+    "valorFijo": "5",
+    "valor_max": "120",
+    "valor_min": "1"
+  },
+  {
+    "descripcion": "Tiempo máximo sin deshielo",
+    "esValorFijo": false,
+    "estatus": true,
+    "grupo": "Deshielo",
+    "idParametro": "66db78478e91fe5056820637",
+    "idParametroInterno": "046",
+    "rango": "[1, 120]",
+    "tipoCampo": "rango",
+    "tipoParametro": "programacion",
+    "unidad": "h",
+    "valorFijo": "12",
+    "valor_max": "120",
+    "valor_min": "1"
+  },
+  {
+    "descripcion": "Tiempo máximo de deshielo",
+    "esValorFijo": false,
+    "estatus": true,
+    "grupo": "Deshielo",
+    "idParametro": "66db78478e91fe5056820638",
+    "idParametroInterno": "047",
+    "rango": "[1, 120]",
+    "tipoCampo": "rango",
+    "tipoParametro": "programacion",
+    "unidad": "min",
+    "valorFijo": "40",
+    "valor_max": "120",
+    "valor_min": "1"
+  },
+  {
+    "descripcion": "Temperatura de fin de deshielo",
+    "esValorFijo": false,
+    "estatus": true,
+    "grupo": "Deshielo",
+    "idParametro": "66db78478e91fe5056820639",
+    "idParametroInterno": "048",
+    "rango": "[-35, 50]",
+    "tipoCampo": "rango",
+    "tipoParametro": "programacion",
+    "unidad": "°C",
+    "valorFijo": "30",
+    "valor_max": "50",
+    "valor_min": "-35"
+  },
+  {
+    "descripcion": "Temperatura de protección contra congelamiento",
+    "esValorFijo": false,
+    "estatus": true,
+    "grupo": "Deshielo",
+    "idParametro": "66db78478e91fe505682063a",
+    "idParametroInterno": "049",
+    "rango": "[-35, 50]",
+    "tipoCampo": "rango",
+    "tipoParametro": "programacion",
+    "unidad": "°C",
+    "valorFijo": "-17",
+    "valor_max": "50",
+    "valor_min": "-35"
+  },
+  {
+    "descripcion": "Deshielo temperatura ON",
+    "esValorFijo": false,
+    "estatus": true,
+    "grupo": "Deshielo",
+    "idParametro": "66db78478e91fe505682063b",
+    "idParametroInterno": "053",
+    "rango": "[-35, 50]",
+    "tipoCampo": "rango",
+    "tipoParametro": "programacion",
+    "unidad": "°C",
+    "valorFijo": "30",
+    "valor_max": "50",
+    "valor_min": "-35"
+  },
+  {
+    "descripcion": "Alarma F (valor de alarma de temperatura baja)",
+    "esValorFijo": false,
+    "estatus": true,
+    "grupo": "Alarmas",
+    "idParametro": "66db78478e91fe505682063c",
+    "idParametroInterno": "060",
+    "rango": "[-35, 50]",
+    "tipoCampo": "rango",
+    "tipoParametro": "programacion",
+    "unidad": "°C",
+    "valorFijo": "-4",
+    "valor_max": "50",
+    "valor_min": "-35"
+  },
+  {
+    "descripcion": "Valor de alarma de temperatura alta",
+    "esValorFijo": false,
+    "estatus": true,
+    "grupo": "Alarmas",
+    "idParametro": "66db78478e91fe505682063d",
+    "idParametroInterno": "061",
+    "rango": "[-35, 50]",
+    "tipoCampo": "rango",
+    "tipoParametro": "programacion",
+    "unidad": "°C",
+    "valorFijo": "20",
+    "valor_max": "50",
+    "valor_min": "-35"
+  }
+  ]

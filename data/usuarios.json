@@ -1,0 +1,17 @@
+[
+    {
+        "correo": "system",
+        "estatus": true,
+        "nombre": "SYSTEM",
+        "permisos": {
+            "electrico": false,
+            "laboratorio": false,
+            "refrigeracion": false,
+            "superusuario": false,
+            "system": true
+        },
+        "pwo": "818a166f58fc2a0c406d672811ab8f39e78b8de0abff8e558d2dfd8f5303d2b9"
+    }
+
+
+]

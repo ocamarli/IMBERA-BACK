@@ -1,0 +1,424 @@
+[
+    {
+        "codigo": "A01",
+        "estatus": true,
+        "idGae": "65f1b41c04a5ebfb58b2e917",
+        "idGaeInterno": "101",
+        "nombre": "BONAFONT"
+    },
+    {
+        "codigo": "A02",
+        "estatus": true,
+        "idGae": "65f1b41c04a5ebfb58b2e918",
+        "idGaeInterno": "102",
+        "nombre": "CADBURY"
+    },
+    {
+        "codigo": "A03",
+        "estatus": true,
+        "idGae": "65f1b41c04a5ebfb58b2e919",
+        "idGaeInterno": "103",
+        "nombre": "EUROPA LINEA TRADICIONAL"
+    },
+    {
+        "codigo": "A04",
+        "estatus": true,
+        "idGae": "65f1b41c04a5ebfb58b2e91a",
+        "idGaeInterno": "104",
+        "nombre": "GREENPOINT"
+    },
+    {
+        "codigo": "A05",
+        "estatus": true,
+        "idGae": "65f1b41c04a5ebfb58b2e91b",
+        "idGaeInterno": "105",
+        "nombre": "BRASIL"
+    },
+    {
+        "codigo": "A06",
+        "estatus": true,
+        "idGae": "65f1b41c04a5ebfb58b2e91c",
+        "idGaeInterno": "106",
+        "nombre": "VITRINAS OTROS"
+    },
+    {
+        "codigo": "A07",
+        "estatus": true,
+        "idGae": "65f1b41c04a5ebfb58b2e91d",
+        "idGaeInterno": "107",
+        "nombre": "COMERCIALIZADOS"
+    },
+    {
+        "codigo": "A08",
+        "estatus": true,
+        "idGae": "65f1b41c04a5ebfb58b2e91e",
+        "idGaeInterno": "108",
+        "nombre": "OTROS KO"
+    },
+    {
+        "codigo": "A09",
+        "estatus": true,
+        "idGae": "65f1b41c04a5ebfb58b2e91f",
+        "idGaeInterno": "109",
+        "nombre": "DANONE "
+    },
+    {
+        "codigo": "A10",
+        "estatus": true,
+        "idGae": "65f1b41c04a5ebfb58b2e920",
+        "idGaeInterno": "110",
+        "nombre": "FOOD SERVICE/DISTRIBUCION"
+    },
+    {
+        "codigo": "A11",
+        "estatus": true,
+        "idGae": "65f1b41c04a5ebfb58b2e921",
+        "idGaeInterno": "111",
+        "nombre": "FIDE"
+    },
+    {
+        "codigo": "A12",
+        "estatus": true,
+        "idGae": "66d9fb33c4e2327f915bc4ed",
+        "idGaeInterno": "112",
+        "nombre": "KOF MX"
+
+    },
+    {
+        "codigo": "A13",
+        "estatus": true,
+        "idGae": "65f1b41c04a5ebfb58b2e923",
+        "idGaeInterno": "113",
+        "nombre": "KOF EXP"
+    },
+    {
+        "codigo": "A14",
+        "estatus": true,
+        "idGae": "65f1b41c04a5ebfb58b2e924",
+        "idGaeInterno": 114,
+        "nombre": "LALA"
+    },
+    {
+        "codigo": "A15",
+        "estatus": true,
+        "idGae": "66d9fb78c4e2327f915bc4f0",
+        "idGaeInterno": "115",
+        "nombre": "LENTO MOVIMIENTO"
+
+    },
+    {
+        "codigo": "A16",
+        "estatus": true,
+        "idGae": "65f1b41c04a5ebfb58b2e926",
+        "idGaeInterno": "106",
+        "nombre": "PILOTO"
+    },
+    {
+        "codigo": "A17",
+        "estatus": true,
+        "idGae": "65f1b41c04a5ebfb58b2e927",
+        "idGaeInterno": "117",
+        "nombre": "RETRABAJO"                                                
+    },
+    {
+        "codigo": "A18",
+        "estatus": true,
+        "idGae": "66d9fc01c4e2327f915bc4fe",
+        "idGaeInterno": "118",
+        "nombre": "SIGMA"
+    },
+    {
+        "codigo": "A19",
+        "estatus": true,
+        "idGae": "66d9fc2bc4e2327f915bc501",
+        "idGaeInterno": "119",
+        "nombre": "OTROS"
+    },
+    {
+        "codigo": "A20",
+        "estatus": true,
+        "idGae": "66d9fc57c4e2327f915bc504",
+        "idGaeInterno": "120",
+        "nombre": "VENDING PLANTA"
+    },
+    {
+        "codigo": "A21",
+        "estatus": true,
+        "idGae": "66d9fc8cc4e2327f915bc50e",
+        "idGaeInterno": "121",
+        "nombre": "EXP CENTROAMERICA"
+    },
+    {
+        "codigo": "A22",
+        "estatus": true,
+        "idGae": "66d9fca7c4e2327f915bc512",
+        "idGaeInterno": "122",
+        "nombre": "CONFIGURABLE"
+    },
+    {
+        "codigo": "A23",
+        "estatus": true,
+        "idGae": "66da1418c4e2327f915bc52a",
+        "idGaeInterno": "123",
+        "nombre": "PROTOTIPO"
+    },
+    {
+        "codigo": "A24",
+        "estatus": true,
+        "idGae": "66da1439c4e2327f915bc52d",
+        "idGaeInterno": "124",
+        "nombre": "CORTINAS DE AIRE"
+    },
+    {
+        "codigo": "A25",
+        "estatus": true,
+        "idGae": "66da146ec4e2327f915bc532",
+        "idGaeInterno": "125",
+        "nombre": "LACTEOS TERCEROS"
+    },
+    {
+        "codigo": "A26",
+        "estatus": true,
+        "idGae": "66da1483c4e2327f915bc535",
+        "idGaeInterno": "126",
+        "nombre": "BIMBO "
+    },
+    {
+        "codigo": "A27",
+        "estatus": true,
+        "idGae": "66da149ac4e2327f915bc538",
+        "idGaeInterno": "127",
+        "nombre": "SOUTH LATIN"
+    },
+    {
+        "codigo": "A28",
+        "estatus": true,
+        "idGae": "66da14e8c4e2327f915bc53b",
+        "idGaeInterno": "128",
+        "nombre": "EXP CCM05"
+    },
+    {
+        "codigo": "A29",
+        "estatus": true,
+        "idGae": "66da153ac4e2327f915bc53f",
+        "idGaeInterno": "129",
+        "nombre": "EXP CCM06"
+    },
+    {
+        "codigo": "A30",
+        "estatus": true,
+        "idGae": "66da1556c4e2327f915bc542",
+        "idGaeInterno": "130",
+        "nombre": "EXP USA"
+    },
+    {
+        "codigo": "A31",
+        "estatus": true,
+        "idGae": "66da15a5c4e2327f915bc545",
+        "idGaeInterno": "131",
+        "nombre": "MCCALL"
+    },
+    {
+        "codigo": "A32",
+        "estatus": true,
+        "idGae": "66da15c8c4e2327f915bc548",
+        "idGaeInterno": "132",
+        "nombre": "VITRINAS DIST"
+    },
+    {
+        "codigo": "A33",
+        "estatus": true,
+        "idGae": "66da15e1c4e2327f915bc54b",
+        "idGaeInterno": "133",
+        "nombre": "CONGELADORES PLANTA"
+    },
+    {
+        "codigo": "A34",
+        "estatus": true,
+        "idGae": "66da193ac4e2327f915bc54e",
+        "idGaeInterno": "134",
+        "nombre": "CCM07"
+    },
+    {
+        "codigo": "A35",
+        "estatus": true,
+        "idGae": "66da1961c4e2327f915bc551",
+        "idGaeInterno": "135",
+        "nombre": "HEINEKEN"
+    },
+    {
+        "codigo": "A36",
+        "estatus": true,
+        "idGae": "66da1997c4e2327f915bc554",
+        "idGaeInterno": "136",
+        "nombre": "CCMOBS"
+    },
+    {
+        "codigo": "A37",
+        "estatus": true,
+        "idGae": "66da19c8c4e2327f915bc558",
+        "idGaeInterno": "137",
+        "nombre": "EXP USA"
+    },
+    {
+        "codigo": "A38",
+        "estatus": true,
+        "idGae": "66da19ffc4e2327f915bc55c",
+        "idGaeInterno": "138",
+        "nombre": "VENDING COMERC"
+    },
+    {
+        "codigo": "A39",
+        "estatus": true,
+        "idGae": "66da1a21c4e2327f915bc55f",
+        "idGaeInterno": "139",
+        "nombre": "MODELO"
+    },
+    {
+        "codigo": "A40",
+        "estatus": true,
+        "idGae": "66da1a4ec4e2327f915bc562",
+        "idGaeInterno": "140",
+        "nombre": "PEÃ‘AFIEL "
+    },
+    {
+        "codigo": "A41",
+        "estatus": true,
+        "idGae": "66da1a6ac4e2327f915bc565",
+        "idGaeInterno": "141",
+        "nombre": "FUERA DE AMERICA"
+    },
+    {
+        "codigo": "A42",
+        "estatus": true,
+        "idGae": "66da1a87c4e2327f915bc568",
+        "idGaeInterno": "142",
+        "nombre": "UNILEVER CONGELADORES"
+    },
+    {
+        "codigo": "A43",
+        "estatus": true,
+        "idGae": "66da1ab9c4e2327f915bc56b",
+        "idGaeInterno": "143",
+        "nombre": "KO ARCA"
+    },
+    {
+        "codigo": "A44",
+        "estatus": true,
+        "idGae": "66da1adac4e2327f915bc56e",
+        "idGaeInterno": "144",
+        "nombre": "KO COLIMA"
+    },
+    {
+        "codigo": "A45",
+        "estatus": true,
+        "idGae": "66da1af3c4e2327f915bc571",
+        "idGaeInterno": "145",
+        "nombre": "KO CONTINENTAL"
+    },
+    {
+        "codigo": "A46",
+        "estatus": true,
+        "idGae": "66da1b0bc4e2327f915bc574",
+        "idGaeInterno": "146",
+        "nombre": "KO JORDAN"
+    },
+    {
+        "codigo": "A47",
+        "estatus": true,
+        "idGae": "66da1b2ac4e2327f915bc577",
+        "idGaeInterno": "147",
+        "nombre": "KO NAYAR"
+    },
+    {
+        "codigo": "A48",
+        "estatus": true,
+        "idGae": "66da1b76c4e2327f915bc57a",
+        "idGaeInterno": "148",
+        "nombre": "KO PENINSULAR"
+    },
+    {
+        "codigo": "A49",
+        "estatus": true,
+        "idGae": "66da1bb1c4e2327f915bc57d",
+        "idGaeInterno": "149",
+        "nombre": "KO RICA"
+    },
+    {
+        "codigo": "A50",
+        "estatus": true,
+        "idGae": "66da1bd0c4e2327f915bc580",
+        "idGaeInterno": "150",
+        "nombre": "KO NOGALES"
+    },
+    {
+        "codigo": "A51",
+        "estatus": true,
+        "idGae": "66da1be8c4e2327f915bc583",
+        "idGaeInterno": "151",
+        "nombre": "EXP APAC"
+    },
+    {
+        "codigo": "A52",
+        "estatus": true,
+        "idGae": "66da1c06c4e2327f915bc586",
+        "idGaeInterno": "152",
+        "nombre": "OXXO"
+    },
+    {
+        "codigo": "A53",
+        "estatus": true,
+        "idGae": "66da1c23c4e2327f915bc589",
+        "idGaeInterno": "153",
+        "nombre": "TORREY"
+    },
+    {
+        "codigo": "A54",
+        "estatus": true,
+        "idGae": "66da1c49c4e2327f915bc58c",
+        "idGaeInterno": "154",
+        "nombre": "OTRO 1"
+    },
+    {
+        "codigo": "A55",
+        "estatus": true,
+        "idGae": "66da1c6bc4e2327f915bc58f",
+        "idGaeInterno": "155",
+        "nombre": "OTRO 2"
+    },
+    {
+        "codigo": "A56",
+        "estatus": true,
+        "idGae": "66da1c95c4e2327f915bc592",
+        "idGaeInterno": "156",
+        "nombre": "OTRO 3"
+    },
+    {
+        "codigo": "A57",
+        "estatus": true,
+        "idGae": "66da1cb6c4e2327f915bc595",
+        "idGaeInterno": "157",
+        "nombre": "OTRO 4"
+    },
+    {
+        "codigo": "A58",
+        "estatus": true,
+        "idGae": "66da1d3fc4e2327f915bc5a3",
+        "idGaeInterno": "158",
+        "nombre": "OTRO 5"
+    },
+    {
+        "codigo": "A59",
+        "estatus": true,
+        "idGae": "66da1d6dc4e2327f915bc5a6",
+        "idGaeInterno": "159",
+        "nombre": "OTRO 6"
+    },
+    {
+        "codigo": "A60",
+        "estatus": true,
+        "idGae": "66da1d6dc4e2327f915bc5a6",
+        "idGaeInterno": "160",
+        "nombre": "OTRO 7"
+    }
+]
